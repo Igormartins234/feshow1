@@ -14,13 +14,14 @@ O Feshow é um aplicativo e site dedicado a promover e facilitar o acesso a even
  - Exemplo: Persistência de dados localmente.
 ## Tecnologias Utilizadas
 - **Linguagem/Frameworks:**
- Liste as principais tecnologias usadas no projeto, como por exemplo:
- - React Native
- - Expo
- - Node.js
- - Firebase
+ - HTML
+ - CSS
+ - BOOTSTRAP
+ - JAVACRIP
 ## Autores
-- Nome do Aluno 1 - GitHub - aluno1@senai.com.br
+- Igor - GitHub - aluno1@senai.com.br
+- Nome do Aluno 2 - GitHub - aluno2@senai.com.br
+- Nome do Aluno 2 - GitHub - aluno2@senai.com.br
 - Nome do Aluno 2 - GitHub - aluno2@senai.com.br
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.

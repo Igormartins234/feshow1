@@ -1,4 +1,4 @@
-![FESHOW](/assets/readme/FESHOW.png)
+![alt text](assets/readme/FESHOW.png)
 
 **Descrição:**
 A FESHOW tem como objetivo atender uma problematica atual da cidade de Itapeva-SP que envolve manter os cidadãos da cidade informados com todos os eventos da cidade.
